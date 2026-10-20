@@ -1,0 +1,12 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.suraj.personalai'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.suraj.personalai'
+        minSdk 23
+        targetSdk 35
+        versionCode 1
+        versionName '0.1.0'
+    }
+}
